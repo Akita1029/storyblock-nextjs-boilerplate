@@ -1,0 +1,10 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/api/exit-preview": "pages/api/exit-preview.js",
+  "/api/preview": "pages/api/preview.js",
+  "/": "pages/index.js",
+  "/[...slug]": "pages/[...slug].js",
+  "/_document": "pages/_document.js",
+  "/404": "pages/404.html"
+}
